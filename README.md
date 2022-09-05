@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Obeida</h1>
 <h3 align="center">A flutter developer</h3>
 
-- 🔭 I’m currently working on [LibraryManagmentApp](https://github.com/LibraryManagmentApp)
+- 🔭 Finish working on [LibraryManagmentApp](https://github.com/LibraryManagmentApp)
 
 - 🌱 I’m currently learning **Flutter,Firebase,SQL,Blockchain,CyberSecurity**
 
