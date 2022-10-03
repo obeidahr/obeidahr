@@ -3,7 +3,7 @@
 
 - 🔭 Finish working on [LibraryManagmentApp](https://github.com/LibraryManagmentApp)
 
-- 🌱 I’m currently learning **Flutter,Firebase,SQL,Blockchain,CyberSecurity**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on [HibatApp](https://github.com/HibatApp)
 
