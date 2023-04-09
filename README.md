@@ -3,7 +3,7 @@
 
 - 🔭 Finish working on [LibraryManagmentApp](https://github.com/LibraryManagmentApp)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m finished learning **Flutter**
 
 - 👯 I’m looking to collaborate on [HibatApp](https://github.com/HibatApp)
 
