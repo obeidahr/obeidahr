@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Obeida</h1>
-<h3 align="center">A flutter developer</h3>
+<h3 align="center">A Software Engineer</h3>
 
 - 🔭 Finish working on [LibraryManagmentApp](https://github.com/LibraryManagmentApp)
 
