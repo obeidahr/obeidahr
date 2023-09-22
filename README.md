@@ -13,11 +13,9 @@
 
 - 💬 Ask me about **Flutter,hacking**
 
-- 📫 How to reach me **obeiworkhr@gmail.com**
+- 📫 How to reach me **obeida.haidar@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/obeida-haidar/](https://www.linkedin.com/in/obeida-haidar/)
-
-- ⚡ Fun fact **I think i am flexible**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
