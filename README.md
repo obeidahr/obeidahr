@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Obeida</h1>
 <h3 align="center">A Software Engineer</h3>
 
-- 🔭 Finish working on [LibraryManagmentApp](https://github.com/LibraryManagmentApp)
-
-- 🌱 I’m finished learning **Flutter**
-
-- 👯 I’m looking to collaborate on [HibatApp](https://github.com/HibatApp)
-
 - 👨‍💻 All of my projects are available at [https://github.com/obeidahr](https://github.com/obeidahr)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/obeida-haidar/](https://www.linkedin.com/in/obeida-haidar/)
 
-- 💬 Ask me about **Flutter,hacking**
+- 💬 Ask me about **Flutter,ML**
 
 - 📫 How to reach me **obeida.haidar@gmail.com**
 
