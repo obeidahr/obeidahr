@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Obeida</h1>
-<h3 align="center">A Software Engineer</h3>
+<h3 align="center">A Software Engineer special in Artificial intelligence</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/obeidahr](https://github.com/obeidahr)
 
