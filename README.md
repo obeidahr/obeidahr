@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/obeida-haidar/](https://www.linkedin.com/in/obeida-haidar/)
 
-- 💬 Ask me about **Flutter,ML**
+- 💬 Ask me about **Flutter,ML, Data Science**
 
 - 📫 How to reach me **obeida.haidar@gmail.com**
 
